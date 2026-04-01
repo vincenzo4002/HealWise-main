@@ -19,6 +19,7 @@ const CreateVacancy = () => {
     description: "",
   });
 
+
   const resetForm = () => {
     setFormData({
       specialization: "",
@@ -259,5 +260,4 @@ const CreateVacancy = () => {
     </div>
   );
 };
-
 export default CreateVacancy;

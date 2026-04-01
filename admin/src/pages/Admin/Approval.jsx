@@ -324,5 +324,4 @@ const Approval = () => {
     </div>
   );
 };
-
 export default Approval;
