@@ -99,5 +99,4 @@ const DoctorDashboard = () => {
     </div>
   )
 }
-
 export default DoctorDashboard
